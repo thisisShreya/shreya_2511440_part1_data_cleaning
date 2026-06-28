@@ -369,52 +369,8 @@ Although the dataset was successfully cleaned, the following limitations remain.
 
 ---
 
-# 12. Files Generated
 
-The following project files were created.
-
-```
-data/
-├── raw_orders.xlsx
-└── cleaned_orders.xlsx
-
-outputs/
-├── data_quality_report.xlsx
-├── pivot_summary.xlsx
-└── cleaning_log.md
-
-screenshots/
-├── raw_data_preview.png
-├── cleaned_data_preview.png
-├── pivot_summary_1.png
-└── pivot_summary_2.png
-
-README.md
-```
-
----
-
-# 13. Final Validation Checklist
-
-The following checks were completed before project submission.
-
-- Original dataset preserved.
-- Cleaned dataset created.
-- Text fields standardized.
-- Date fields standardized.
-- Missing values handled.
-- Duplicate records reviewed.
-- Business rules applied.
-- Calculated columns created.
-- Data Quality Report prepared.
-- Pivot Summary Report prepared.
-- Screenshots captured.
-- README completed.
-- Cleaning Log completed.
-
----
-
-# 14. Conclusion
+# 12. Conclusion
 
 The retail sales dataset was successfully cleaned, validated, and transformed into a business-ready dataset using Microsoft Excel.
 
